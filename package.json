@@ -12,7 +12,7 @@
   "module": "dist/index.esm.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lisheri/lisher-uniapp-webpack-plugins.git"
+    "url": "git+https://github.com/Lisheri/uniapp-webpack-plugin-customize-component.git"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^23.0.3",
