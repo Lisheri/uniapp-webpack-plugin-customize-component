@@ -4,17 +4,16 @@
 
 ## 环境
 
-uniapp + vite2
+uniapp + webpack
 
 ## 使用
 
 ```ts
 plugins: [
     ...
-     UniappCustomizeComponent({
-      // uniapp组件url: { 自定义组件名: 自定义组件url }
-      'components/Card/Card': { 'wx-pay-button': '/wxcomponent/WxPayButton/index' }
-    })
+    new UniappCustomizeComponent({
+        'components/audio/index': { 'wx-pay-button': '/wxcomponent/WxPayButton/index' }
+      })
   ],
 ```
 ## 说明
