@@ -1,6 +1,6 @@
 {
   "name": "uniapp-webpack-plugin-customize-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "uniapp+webpack在组件级引入自定义插件",
   "keywords": ["uniapp", "webpack", "customizeComponent", "plugins"],
   "author": "",
