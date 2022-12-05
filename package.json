@@ -6,7 +6,7 @@
   "author": "",
   "license": "MIT",
   "scripts": {
-    "build": "rollup -c"
+    "build": "rollup -c --bundleConfigAsCjs"
   },
   "main": "dist/index.umd.js",
   "module": "dist/index.esm.js",
